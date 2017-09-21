@@ -1,5 +1,8 @@
 ## Overview
 
+THIS REPO HAS BEEN DEPRICATED AND WILL BE REMOVED BEFORE 2018.  PLEASE EMAIL SUPPORT@PACB.COM IF YOU NEED ASSISTANCE WITH SMRTANALYSIS 2.3.0
+
+
 SMRT<sup><small>&reg;</small></sup> Analysis is a powerful, open-source bioinformatics software suite available for analysis of DNA sequencing data from [Pacific Biosciences](http://www.pacificbiosciences.com)’ SMRT technology.
 
 Users can choose from a variety of analysis protocols that utilize PacBio<sup><small>&reg;</small></sup> and third-party tools. Analysis protocols include _de novo_ genome assembly, cDNA mapping, DNA base-modification detection, and long-amplicon analysis to determine phased consensus sequences.
